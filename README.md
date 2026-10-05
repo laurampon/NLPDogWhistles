@@ -13,7 +13,7 @@ O trabalho utilizou um *Corpus* constituído por anotações provenientes dos da
 
 ## Sobre o repositório
 
-O arquivo `ProjetoDogWhistles.ipynb` contêm todas as etapas de pré-processamento, tokenização, embeddings, instanciação e validação dos modelos. 
+O arquivo `CopiaProjetoDogWhistlesV4.ipynb` contêm todas as etapas de pré-processamento, tokenização, embeddings, instanciação e validação dos modelos. 
 
 As seguintes bibliotecas Python são utilizadas:
 
